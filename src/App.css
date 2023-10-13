@@ -1,38 +1,194 @@
-.App {
+
+body{
+  background-color: #282c34 !important;
+}
+.headingimage{
+  background-color: white !important;
+}
+.search{
+  background-color: white !important;
+}
+.user1{
+  background-color:white !important;
+}
+.searchbar{
+  margin-top:30px !important;
+  width:80% !important;
+  height: 30% !important;
+  border: 0;
+  border-radius:0px 5px  5px 0px !important;
+  background-color: #9ab2d152;
+  color:rgb(76, 72, 72);
+  font-size: medium;
+  outline: none;
+}
+.fa-magnifying-glass{
+  margin-left: 30px !important;
+  background-color:  #9ab2d152 !important;
+  padding:10px !important;
+  
+  border-radius:5px 0px 0px 5px;
+
+}
+.user{
+  float: right !important;
+  margin-top:30px;
+  font-size: 20px;
+}
+.fa-house{
+  margin-right: 10px;
+  margin-left: 0px;
+}
+.fa-user{
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+.fa-cart-shopping{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.fa-ellipsis-vertical{
+  margin-left: 10px ;
+  margin-right: 10px;
+}
+.section2{
+  margin: 20px 0 !important;
+  background-color: white !important;
+  padding:0px !important;
+}
+.sal{
   text-align: center;
 }
+/* }
+.section2img .image1{
+  width: 80px !important;
+  margin-left: 30px !important;
+  margin-right: 50px;
+   
+}
+.section2img .image2{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image3{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image4{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image5{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image6{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image7{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image1{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image8{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image9{
+  width: 80px !important;
+  margin-right: 50px;
+}
+.section2img .image10{
+  width: 80px !important; 
+}
+.section2names ul a{
+  list-style-type: none;
+  color:black;
+  text-decoration: none;
+}
+.section2names .name1{
+  margin-right: 20px;
+}
+.section2names .name2{
+  margin-right: 40px;
+}
+.section2names .name3{
+  margin-right: 40px;
+}
+.section2names .name4{
+  margin-right: 50px;
+}
+.section2names .name5{
+  margin-right: 60px;
+}
+.section2names .name6{
+  margin-right: 60px;
+}
+.section2names .name7{
+  margin-right: 50px;
+}
+.section2names .name8{
+  margin-right: 60px;
+}
+ .section2names .name9{
+  margin-right: 60px;
+}  */
+.section4heading{
+  font-size:30px !important;
+}
+.section4 .image1{
+  margin-left:10px !important;
+  margin-right: 20px;
+  border: solid 3px black !important;
+  border-radius: 5px;
+}
+.section4 .image2{
+  margin-right: 20px;
+  border: solid 3px black !important;
+  border-radius: 5px;
+}
+.section4 .image3{
+  margin-right: 20px;
+  border: solid 3px black !important;
+  border-radius: 5px;
+}
+.section4 .image4{
+  margin-right: 20px;
+  border: solid 3px black !important;
+  border-radius: 5px;
+}
+.section4 .image5{
+  border: solid 3px black !important;
+  border-radius: 5px;
+}
+ .section4images2{
+  padding: 0px !important;
+  margin: 20px 0px 20px 0px !important;
+}
+.section4images2 .image6{
+  width:100% !important;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+}
+.bestmobiles{
+  --bs-gutter-x:3rem !important;
+  margin-left:5rem;
+}
+.section img{
+  width:80%;
+}
+.section4 {
+  margin: 20px!important;
+  background-color: white !important;
+  width:max-content !important; 
+}
+.section4row{
+  margin: 0px !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
