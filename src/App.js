@@ -13,7 +13,7 @@ function App() {
     <>
       <BrowserRouter>
         <div className='container-fluid' >
-          <div className='row mb-3' >
+          <div className='row' >
             <Heading1 />
           </div>
           <Section2 />
