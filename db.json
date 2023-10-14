@@ -26,6 +26,24 @@
       "description": "A samsung tablet",
       "thumbnail": "https://rukminim2.flixcart.com/image/832/832/kdrpksw0/tablet/w/f/6/samsung-sm-t975nzkainu-original-imafuhg9tfydgg78.jpeg?q=70",
       "id": 3
+    },
+    {
+      "productId": "5",
+      "title": "Samsung TV",
+      "brand": "Samsung",
+      "price": "300000",
+      "description": "well structured",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/j/2/j/-original-imagtq4hqqt37tgx.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "productId": "5",
+      "title": "Samsung Tv",
+      "brand": "Samsung",
+      "price": "300000",
+      "description": "Well designed Tv",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/j/2/j/-original-imagtq4hqqt37tgx.jpeg?q=70",
+      "id": 5
     }
   ]
 }
